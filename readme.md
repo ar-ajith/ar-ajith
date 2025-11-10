@@ -7,7 +7,7 @@
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
 
-
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 - 🔭 **I’m currently working on:** Building scalable backend systems using Django, REST APIs, and Oracle VBCS
 - 🌱 **I’m currently learning:** Cloud Automation, Oracle Integration Cloud (OIC), and Advanced Python Development
 - 💬 **Ask me about:** Python, Django, REST APIs, VBCS, and Cloud Integrations
